@@ -10,7 +10,7 @@
 ---
 
 
-<img src=output.jpg: width="10"  height = "10">|![architecture](https://github.com/lee-hyeon-gu/alpaco0304/assets/149756412/2b214111-3ade-4b02-b4d3-aa388da5ded5){: width="10"  height = "10"}
+![output]<img src="output.jpg" width="200"  height = "200">|<img src="architecture.jpg" width="200"  height = "200">
 결과 이미지output.jpg|전체 설계도 architecture.jpg
 
 4. 참고문헌 : Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton. "Imagenet classification with deep convolutional neural networks." Advances in neural information processing systems 25 (2012)
